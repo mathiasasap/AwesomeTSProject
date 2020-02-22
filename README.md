@@ -17,6 +17,7 @@ export PATH=$PATH:$ANDROID_HOME/tools
 export PATH=$PATH:$ANDROID_HOME/tools/bin
 export PATH=$PATH:$ANDROID_HOME/platform-tools
 ```
+
 We also added the tools/bin and platform-tools folder to the PATH variable to be able to run various utilities like adb from any folder. Next, run the following command:
 
 `source ~/.bashrc` or `source ~/.bash_profile` 
