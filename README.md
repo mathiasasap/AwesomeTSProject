@@ -8,4 +8,5 @@ React native demo project of the [official react native documentation](https://f
 
 # Getting started
 1. Clone the project
+1. Run react native project with the command `npx react-native start`
 1. Run the android project with the command `npx react-native run-android`
